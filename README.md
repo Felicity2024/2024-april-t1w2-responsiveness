@@ -9,3 +9,4 @@
 - Added list of bands
 - Added website layout of row's, coloum's, header and footer styling
 - Organised the index.html into div's, article and aside
+- Navigation menue added
