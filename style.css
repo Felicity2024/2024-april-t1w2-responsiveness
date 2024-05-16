@@ -1,0 +1,16 @@
+/* Default styles for small screens and anything not caught by media */
+
+body{
+    background-color: paleturquoise;
+}
+
+/* Styles for screens 600ox wide and larger */
+/* Make sure the screen is set to 100% or the changes wont show */
+
+@media only screen and (max-width: 600px) {
+    body {
+      background-color: red;
+    }
+  }
+
+
