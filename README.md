@@ -7,4 +7,5 @@
 - Made @media rule for min width 600px or larger different colour
 - Added paragraphs - wrapped text
 - Added list of bands
-
+- Added website layout of row's, coloum's, header and footer styling
+- Organised the index.html into div's, article and aside
